@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/inheritance/bin/Debug/netcoreapp3.1/inheritance.deps.json
+/Users/williambonner/Source/repos/inheritance/bin/Debug/netcoreapp3.1/inheritance.runtimeconfig.json
+/Users/williambonner/Source/repos/inheritance/bin/Debug/netcoreapp3.1/inheritance.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/inheritance/bin/Debug/netcoreapp3.1/inheritance.dll
+/Users/williambonner/Source/repos/inheritance/bin/Debug/netcoreapp3.1/inheritance.pdb
+/Users/williambonner/Source/repos/inheritance/obj/Debug/netcoreapp3.1/inheritance.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/inheritance/obj/Debug/netcoreapp3.1/inheritance.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/inheritance/obj/Debug/netcoreapp3.1/inheritance.AssemblyInfo.cs
+/Users/williambonner/Source/repos/inheritance/obj/Debug/netcoreapp3.1/inheritance.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/inheritance/obj/Debug/netcoreapp3.1/inheritance.dll
+/Users/williambonner/Source/repos/inheritance/obj/Debug/netcoreapp3.1/inheritance.pdb
+/Users/williambonner/Source/repos/inheritance/obj/Debug/netcoreapp3.1/inheritance.genruntimeconfig.cache

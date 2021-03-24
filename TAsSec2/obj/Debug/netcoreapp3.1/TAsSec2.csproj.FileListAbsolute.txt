@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/TAsSec2/obj/Debug/netcoreapp3.1/TAsSec2.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/TAsSec2/obj/Debug/netcoreapp3.1/TAsSec2.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/TAsSec2/obj/Debug/netcoreapp3.1/TAsSec2.AssemblyInfo.cs
+/Users/williambonner/Source/repos/TAsSec2/obj/Debug/netcoreapp3.1/TAsSec2.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/TAsSec2/bin/Debug/netcoreapp3.1/TAsSec2.deps.json
+/Users/williambonner/Source/repos/TAsSec2/bin/Debug/netcoreapp3.1/TAsSec2.runtimeconfig.json
+/Users/williambonner/Source/repos/TAsSec2/bin/Debug/netcoreapp3.1/TAsSec2.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/TAsSec2/bin/Debug/netcoreapp3.1/TAsSec2.dll
+/Users/williambonner/Source/repos/TAsSec2/bin/Debug/netcoreapp3.1/TAsSec2.pdb
+/Users/williambonner/Source/repos/TAsSec2/obj/Debug/netcoreapp3.1/TAsSec2.dll
+/Users/williambonner/Source/repos/TAsSec2/obj/Debug/netcoreapp3.1/TAsSec2.pdb
+/Users/williambonner/Source/repos/TAsSec2/obj/Debug/netcoreapp3.1/TAsSec2.genruntimeconfig.cache

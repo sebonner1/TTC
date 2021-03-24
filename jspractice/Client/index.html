@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Resources/css/index.css">
+    <title>To Do's</title>
+</head>
+<body onload = "handleOnLoad()">
+    <script type = "text/javascript" src = "./Resources/Scripts/index.js"></script>
+    <h1>My To Do List</h1>
+    <div id="table"></div>
+    <div id="editModal" class="modal">
+        <div class = "modal-content">
+            <span class = "close" onclick="closeModel()"></span>
+            <form onsubmit = "return false" method = "POST"></form>
+    </div>
+
+    <form onsubmit="return false">
+        <input type="text" name="task" id="task">
+        <input type="submit" value="Submit" onclick="handleAddTask()">
+    </form>
+</body>
+</html>

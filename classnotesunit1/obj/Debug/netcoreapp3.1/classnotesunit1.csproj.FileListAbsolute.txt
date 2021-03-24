@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/classnotesunit1/obj/Debug/netcoreapp3.1/classnotesunit1.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/classnotesunit1/obj/Debug/netcoreapp3.1/classnotesunit1.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/classnotesunit1/obj/Debug/netcoreapp3.1/classnotesunit1.AssemblyInfo.cs
+/Users/williambonner/Source/repos/classnotesunit1/obj/Debug/netcoreapp3.1/classnotesunit1.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/classnotesunit1/bin/Debug/netcoreapp3.1/classnotesunit1.deps.json
+/Users/williambonner/Source/repos/classnotesunit1/bin/Debug/netcoreapp3.1/classnotesunit1.runtimeconfig.json
+/Users/williambonner/Source/repos/classnotesunit1/bin/Debug/netcoreapp3.1/classnotesunit1.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/classnotesunit1/bin/Debug/netcoreapp3.1/classnotesunit1.dll
+/Users/williambonner/Source/repos/classnotesunit1/bin/Debug/netcoreapp3.1/classnotesunit1.pdb
+/Users/williambonner/Source/repos/classnotesunit1/obj/Debug/netcoreapp3.1/classnotesunit1.dll
+/Users/williambonner/Source/repos/classnotesunit1/obj/Debug/netcoreapp3.1/classnotesunit1.pdb
+/Users/williambonner/Source/repos/classnotesunit1/obj/Debug/netcoreapp3.1/classnotesunit1.genruntimeconfig.cache

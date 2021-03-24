@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/methodsexample/bin/Debug/netcoreapp3.1/methodsexample.deps.json
+/Users/williambonner/Source/repos/methodsexample/bin/Debug/netcoreapp3.1/methodsexample.runtimeconfig.json
+/Users/williambonner/Source/repos/methodsexample/bin/Debug/netcoreapp3.1/methodsexample.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/methodsexample/bin/Debug/netcoreapp3.1/methodsexample.dll
+/Users/williambonner/Source/repos/methodsexample/bin/Debug/netcoreapp3.1/methodsexample.pdb
+/Users/williambonner/Source/repos/methodsexample/obj/Debug/netcoreapp3.1/methodsexample.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/methodsexample/obj/Debug/netcoreapp3.1/methodsexample.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/methodsexample/obj/Debug/netcoreapp3.1/methodsexample.AssemblyInfo.cs
+/Users/williambonner/Source/repos/methodsexample/obj/Debug/netcoreapp3.1/methodsexample.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/methodsexample/obj/Debug/netcoreapp3.1/methodsexample.dll
+/Users/williambonner/Source/repos/methodsexample/obj/Debug/netcoreapp3.1/methodsexample.pdb
+/Users/williambonner/Source/repos/methodsexample/obj/Debug/netcoreapp3.1/methodsexample.genruntimeconfig.cache

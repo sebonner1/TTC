@@ -1,0 +1,4 @@
+/Users/williambonner/Source/repos/AdapterNotes/obj/Debug/netcoreapp3.1/AdapterNotes.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/AdapterNotes/obj/Debug/netcoreapp3.1/AdapterNotes.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/AdapterNotes/obj/Debug/netcoreapp3.1/AdapterNotes.AssemblyInfo.cs
+/Users/williambonner/Source/repos/AdapterNotes/obj/Debug/netcoreapp3.1/AdapterNotes.csproj.CoreCompileInputs.cache

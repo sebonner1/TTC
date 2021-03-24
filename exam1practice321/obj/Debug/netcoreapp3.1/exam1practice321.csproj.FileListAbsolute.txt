@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/exam1practice321/obj/Debug/netcoreapp3.1/exam1practice321.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/exam1practice321/obj/Debug/netcoreapp3.1/exam1practice321.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/exam1practice321/obj/Debug/netcoreapp3.1/exam1practice321.AssemblyInfo.cs
+/Users/williambonner/Source/repos/exam1practice321/obj/Debug/netcoreapp3.1/exam1practice321.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/exam1practice321/bin/Debug/netcoreapp3.1/exam1practice321.deps.json
+/Users/williambonner/Source/repos/exam1practice321/bin/Debug/netcoreapp3.1/exam1practice321.runtimeconfig.json
+/Users/williambonner/Source/repos/exam1practice321/bin/Debug/netcoreapp3.1/exam1practice321.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/exam1practice321/bin/Debug/netcoreapp3.1/exam1practice321.dll
+/Users/williambonner/Source/repos/exam1practice321/bin/Debug/netcoreapp3.1/exam1practice321.pdb
+/Users/williambonner/Source/repos/exam1practice321/obj/Debug/netcoreapp3.1/exam1practice321.dll
+/Users/williambonner/Source/repos/exam1practice321/obj/Debug/netcoreapp3.1/exam1practice321.pdb
+/Users/williambonner/Source/repos/exam1practice321/obj/Debug/netcoreapp3.1/exam1practice321.genruntimeconfig.cache

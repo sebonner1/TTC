@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/decisionstructuresexample/bin/Debug/netcoreapp3.1/decisionstructuresexample.deps.json
+/Users/williambonner/Source/repos/decisionstructuresexample/bin/Debug/netcoreapp3.1/decisionstructuresexample.runtimeconfig.json
+/Users/williambonner/Source/repos/decisionstructuresexample/bin/Debug/netcoreapp3.1/decisionstructuresexample.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/decisionstructuresexample/bin/Debug/netcoreapp3.1/decisionstructuresexample.dll
+/Users/williambonner/Source/repos/decisionstructuresexample/bin/Debug/netcoreapp3.1/decisionstructuresexample.pdb
+/Users/williambonner/Source/repos/decisionstructuresexample/obj/Debug/netcoreapp3.1/decisionstructuresexample.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/decisionstructuresexample/obj/Debug/netcoreapp3.1/decisionstructuresexample.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/decisionstructuresexample/obj/Debug/netcoreapp3.1/decisionstructuresexample.AssemblyInfo.cs
+/Users/williambonner/Source/repos/decisionstructuresexample/obj/Debug/netcoreapp3.1/decisionstructuresexample.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/decisionstructuresexample/obj/Debug/netcoreapp3.1/decisionstructuresexample.dll
+/Users/williambonner/Source/repos/decisionstructuresexample/obj/Debug/netcoreapp3.1/decisionstructuresexample.pdb
+/Users/williambonner/Source/repos/decisionstructuresexample/obj/Debug/netcoreapp3.1/decisionstructuresexample.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/repetitionstructureexample/bin/Debug/netcoreapp3.1/repetitionstructureexample.deps.json
+/Users/williambonner/Source/repos/repetitionstructureexample/bin/Debug/netcoreapp3.1/repetitionstructureexample.runtimeconfig.json
+/Users/williambonner/Source/repos/repetitionstructureexample/bin/Debug/netcoreapp3.1/repetitionstructureexample.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/repetitionstructureexample/bin/Debug/netcoreapp3.1/repetitionstructureexample.dll
+/Users/williambonner/Source/repos/repetitionstructureexample/bin/Debug/netcoreapp3.1/repetitionstructureexample.pdb
+/Users/williambonner/Source/repos/repetitionstructureexample/obj/Debug/netcoreapp3.1/repetitionstructureexample.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/repetitionstructureexample/obj/Debug/netcoreapp3.1/repetitionstructureexample.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/repetitionstructureexample/obj/Debug/netcoreapp3.1/repetitionstructureexample.AssemblyInfo.cs
+/Users/williambonner/Source/repos/repetitionstructureexample/obj/Debug/netcoreapp3.1/repetitionstructureexample.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/repetitionstructureexample/obj/Debug/netcoreapp3.1/repetitionstructureexample.dll
+/Users/williambonner/Source/repos/repetitionstructureexample/obj/Debug/netcoreapp3.1/repetitionstructureexample.pdb
+/Users/williambonner/Source/repos/repetitionstructureexample/obj/Debug/netcoreapp3.1/repetitionstructureexample.genruntimeconfig.cache

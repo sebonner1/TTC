@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+td,
+th {
+    border: 1px solid black;
+}
+
+.halfpage{
+    table-layout: auto;
+    width: 50%;
+    text-align: center;
+}

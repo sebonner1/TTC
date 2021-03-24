@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.AssemblyInfo.cs
+/Users/williambonner/Source/repos/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.deps.json
+/Users/williambonner/Source/repos/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.json
+/Users/williambonner/Source/repos/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.dll
+/Users/williambonner/Source/repos/polymorphism/bin/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/williambonner/Source/repos/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.dll
+/Users/williambonner/Source/repos/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.pdb
+/Users/williambonner/Source/repos/polymorphism/obj/Debug/netcoreapp3.1/polymorphism.genruntimeconfig.cache

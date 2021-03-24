@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rgylchBA11tvRysa3ASHKW5DzWRd9y2udgLrQHcLSK5ANBO6rpcuY2lHYQMhwyhm7G5nI+M2eBCiG2AO13chbQ==",
+  "success": true,
+  "projectFilePath": "/Users/williambonner/Source/repos/database/database.csproj",
+  "expectedPackageFiles": [
+    "/Users/williambonner/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.113.2/stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "/Users/williambonner/.nuget/packages/system.data.sqlite.core/1.0.113.7/system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
+  "logs": []
+}

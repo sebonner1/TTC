@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/filesnotes/obj/Debug/netcoreapp3.1/filesnotes.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/filesnotes/obj/Debug/netcoreapp3.1/filesnotes.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/filesnotes/obj/Debug/netcoreapp3.1/filesnotes.AssemblyInfo.cs
+/Users/williambonner/Source/repos/filesnotes/obj/Debug/netcoreapp3.1/filesnotes.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/filesnotes/bin/Debug/netcoreapp3.1/filesnotes.deps.json
+/Users/williambonner/Source/repos/filesnotes/bin/Debug/netcoreapp3.1/filesnotes.runtimeconfig.json
+/Users/williambonner/Source/repos/filesnotes/bin/Debug/netcoreapp3.1/filesnotes.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/filesnotes/bin/Debug/netcoreapp3.1/filesnotes.dll
+/Users/williambonner/Source/repos/filesnotes/bin/Debug/netcoreapp3.1/filesnotes.pdb
+/Users/williambonner/Source/repos/filesnotes/obj/Debug/netcoreapp3.1/filesnotes.dll
+/Users/williambonner/Source/repos/filesnotes/obj/Debug/netcoreapp3.1/filesnotes.pdb
+/Users/williambonner/Source/repos/filesnotes/obj/Debug/netcoreapp3.1/filesnotes.genruntimeconfig.cache

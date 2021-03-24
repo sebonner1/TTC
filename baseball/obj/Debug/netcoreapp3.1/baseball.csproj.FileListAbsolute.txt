@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/baseball/bin/Debug/netcoreapp3.1/baseball.deps.json
+/Users/williambonner/Source/repos/baseball/bin/Debug/netcoreapp3.1/baseball.runtimeconfig.json
+/Users/williambonner/Source/repos/baseball/bin/Debug/netcoreapp3.1/baseball.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/baseball/bin/Debug/netcoreapp3.1/baseball.dll
+/Users/williambonner/Source/repos/baseball/bin/Debug/netcoreapp3.1/baseball.pdb
+/Users/williambonner/Source/repos/baseball/obj/Debug/netcoreapp3.1/baseball.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/baseball/obj/Debug/netcoreapp3.1/baseball.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/baseball/obj/Debug/netcoreapp3.1/baseball.AssemblyInfo.cs
+/Users/williambonner/Source/repos/baseball/obj/Debug/netcoreapp3.1/baseball.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/baseball/obj/Debug/netcoreapp3.1/baseball.dll
+/Users/williambonner/Source/repos/baseball/obj/Debug/netcoreapp3.1/baseball.pdb
+/Users/williambonner/Source/repos/baseball/obj/Debug/netcoreapp3.1/baseball.genruntimeconfig.cache

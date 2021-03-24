@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/inheritancenotes/bin/Debug/netcoreapp3.1/inheritancenotes.deps.json
+/Users/williambonner/Source/repos/inheritancenotes/bin/Debug/netcoreapp3.1/inheritancenotes.runtimeconfig.json
+/Users/williambonner/Source/repos/inheritancenotes/bin/Debug/netcoreapp3.1/inheritancenotes.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/inheritancenotes/bin/Debug/netcoreapp3.1/inheritancenotes.dll
+/Users/williambonner/Source/repos/inheritancenotes/bin/Debug/netcoreapp3.1/inheritancenotes.pdb
+/Users/williambonner/Source/repos/inheritancenotes/obj/Debug/netcoreapp3.1/inheritancenotes.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/inheritancenotes/obj/Debug/netcoreapp3.1/inheritancenotes.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/inheritancenotes/obj/Debug/netcoreapp3.1/inheritancenotes.AssemblyInfo.cs
+/Users/williambonner/Source/repos/inheritancenotes/obj/Debug/netcoreapp3.1/inheritancenotes.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/inheritancenotes/obj/Debug/netcoreapp3.1/inheritancenotes.dll
+/Users/williambonner/Source/repos/inheritancenotes/obj/Debug/netcoreapp3.1/inheritancenotes.pdb
+/Users/williambonner/Source/repos/inheritancenotes/obj/Debug/netcoreapp3.1/inheritancenotes.genruntimeconfig.cache

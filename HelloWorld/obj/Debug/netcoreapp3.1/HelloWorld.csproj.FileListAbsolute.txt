@@ -1,0 +1,12 @@
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/williambonner/Desktop/MIS 221/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache

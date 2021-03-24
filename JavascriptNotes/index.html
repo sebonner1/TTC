@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "/Users/williambonner/Source/repos/JavascriptNotes/resources/css/index.css"> 
+    <title>To Dos</title>
+</head>
+<body onload="handleOnLoad()">
+    <script tyoe= "text/JavascriptNotes" src="/Users/williambonner/Source/repos/JavascriptNotes/resources/css/scripts/index.js"></script>
+    <h1>My To Do List</h1>
+    <div id = "table"></div>
+
+    <form onsubmit="return false">
+        <input type="text" name="task" id="task">
+        <input type="submit" value="Submit" onclick = "handleAddTask()">
+    </form>
+</body>
+</html>

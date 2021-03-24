@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/unit2notespart2/obj/Debug/netcoreapp3.1/unit2notespart2.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/unit2notespart2/obj/Debug/netcoreapp3.1/unit2notespart2.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/unit2notespart2/obj/Debug/netcoreapp3.1/unit2notespart2.AssemblyInfo.cs
+/Users/williambonner/Source/repos/unit2notespart2/obj/Debug/netcoreapp3.1/unit2notespart2.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/unit2notespart2/bin/Debug/netcoreapp3.1/unit2notespart2.deps.json
+/Users/williambonner/Source/repos/unit2notespart2/bin/Debug/netcoreapp3.1/unit2notespart2.runtimeconfig.json
+/Users/williambonner/Source/repos/unit2notespart2/bin/Debug/netcoreapp3.1/unit2notespart2.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/unit2notespart2/bin/Debug/netcoreapp3.1/unit2notespart2.dll
+/Users/williambonner/Source/repos/unit2notespart2/bin/Debug/netcoreapp3.1/unit2notespart2.pdb
+/Users/williambonner/Source/repos/unit2notespart2/obj/Debug/netcoreapp3.1/unit2notespart2.dll
+/Users/williambonner/Source/repos/unit2notespart2/obj/Debug/netcoreapp3.1/unit2notespart2.pdb
+/Users/williambonner/Source/repos/unit2notespart2/obj/Debug/netcoreapp3.1/unit2notespart2.genruntimeconfig.cache

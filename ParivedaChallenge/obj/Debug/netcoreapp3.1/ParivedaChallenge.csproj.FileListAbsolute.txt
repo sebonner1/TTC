@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/ParivedaChallenge/bin/Debug/netcoreapp3.1/ParivedaChallenge.deps.json
+/Users/williambonner/Source/repos/ParivedaChallenge/bin/Debug/netcoreapp3.1/ParivedaChallenge.runtimeconfig.json
+/Users/williambonner/Source/repos/ParivedaChallenge/bin/Debug/netcoreapp3.1/ParivedaChallenge.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/ParivedaChallenge/bin/Debug/netcoreapp3.1/ParivedaChallenge.dll
+/Users/williambonner/Source/repos/ParivedaChallenge/bin/Debug/netcoreapp3.1/ParivedaChallenge.pdb
+/Users/williambonner/Source/repos/ParivedaChallenge/obj/Debug/netcoreapp3.1/ParivedaChallenge.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/ParivedaChallenge/obj/Debug/netcoreapp3.1/ParivedaChallenge.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/ParivedaChallenge/obj/Debug/netcoreapp3.1/ParivedaChallenge.AssemblyInfo.cs
+/Users/williambonner/Source/repos/ParivedaChallenge/obj/Debug/netcoreapp3.1/ParivedaChallenge.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/ParivedaChallenge/obj/Debug/netcoreapp3.1/ParivedaChallenge.dll
+/Users/williambonner/Source/repos/ParivedaChallenge/obj/Debug/netcoreapp3.1/ParivedaChallenge.pdb
+/Users/williambonner/Source/repos/ParivedaChallenge/obj/Debug/netcoreapp3.1/ParivedaChallenge.genruntimeconfig.cache

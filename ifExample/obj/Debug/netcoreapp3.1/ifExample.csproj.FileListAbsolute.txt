@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/ifExample/bin/Debug/netcoreapp3.1/ifExample.deps.json
+/Users/williambonner/Source/repos/ifExample/bin/Debug/netcoreapp3.1/ifExample.runtimeconfig.json
+/Users/williambonner/Source/repos/ifExample/bin/Debug/netcoreapp3.1/ifExample.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/ifExample/bin/Debug/netcoreapp3.1/ifExample.dll
+/Users/williambonner/Source/repos/ifExample/bin/Debug/netcoreapp3.1/ifExample.pdb
+/Users/williambonner/Source/repos/ifExample/obj/Debug/netcoreapp3.1/ifExample.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/ifExample/obj/Debug/netcoreapp3.1/ifExample.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/ifExample/obj/Debug/netcoreapp3.1/ifExample.AssemblyInfo.cs
+/Users/williambonner/Source/repos/ifExample/obj/Debug/netcoreapp3.1/ifExample.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/ifExample/obj/Debug/netcoreapp3.1/ifExample.dll
+/Users/williambonner/Source/repos/ifExample/obj/Debug/netcoreapp3.1/ifExample.pdb
+/Users/williambonner/Source/repos/ifExample/obj/Debug/netcoreapp3.1/ifExample.genruntimeconfig.cache

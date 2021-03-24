@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/PA2/obj/Debug/netcoreapp3.1/PA2.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/PA2/obj/Debug/netcoreapp3.1/PA2.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/PA2/obj/Debug/netcoreapp3.1/PA2.AssemblyInfo.cs
+/Users/williambonner/Source/repos/PA2/obj/Debug/netcoreapp3.1/PA2.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/PA2/bin/Debug/netcoreapp3.1/PA2.deps.json
+/Users/williambonner/Source/repos/PA2/bin/Debug/netcoreapp3.1/PA2.runtimeconfig.json
+/Users/williambonner/Source/repos/PA2/bin/Debug/netcoreapp3.1/PA2.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/PA2/bin/Debug/netcoreapp3.1/PA2.dll
+/Users/williambonner/Source/repos/PA2/bin/Debug/netcoreapp3.1/PA2.pdb
+/Users/williambonner/Source/repos/PA2/obj/Debug/netcoreapp3.1/PA2.dll
+/Users/williambonner/Source/repos/PA2/obj/Debug/netcoreapp3.1/PA2.pdb
+/Users/williambonner/Source/repos/PA2/obj/Debug/netcoreapp3.1/PA2.genruntimeconfig.cache

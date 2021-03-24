@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../examplerepo"
+		},
+		{
+			"path": "../examplerepo/examplerepo"
+		},
+		{
+			"path": "../Lab 2"
+		},
+		{
+			"path": "../decisionstructuresexample"
+		},
+		{
+			"path": "../ifExample"
+		}
+	]
+}

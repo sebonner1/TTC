@@ -1,0 +1,12 @@
+/Users/williambonner/Source/repos/bigalfirstday/bin/Debug/netcoreapp3.1/bigalfirstday.deps.json
+/Users/williambonner/Source/repos/bigalfirstday/bin/Debug/netcoreapp3.1/bigalfirstday.runtimeconfig.json
+/Users/williambonner/Source/repos/bigalfirstday/bin/Debug/netcoreapp3.1/bigalfirstday.runtimeconfig.dev.json
+/Users/williambonner/Source/repos/bigalfirstday/bin/Debug/netcoreapp3.1/bigalfirstday.dll
+/Users/williambonner/Source/repos/bigalfirstday/bin/Debug/netcoreapp3.1/bigalfirstday.pdb
+/Users/williambonner/Source/repos/bigalfirstday/obj/Debug/netcoreapp3.1/bigalfirstday.csprojAssemblyReference.cache
+/Users/williambonner/Source/repos/bigalfirstday/obj/Debug/netcoreapp3.1/bigalfirstday.AssemblyInfoInputs.cache
+/Users/williambonner/Source/repos/bigalfirstday/obj/Debug/netcoreapp3.1/bigalfirstday.AssemblyInfo.cs
+/Users/williambonner/Source/repos/bigalfirstday/obj/Debug/netcoreapp3.1/bigalfirstday.csproj.CoreCompileInputs.cache
+/Users/williambonner/Source/repos/bigalfirstday/obj/Debug/netcoreapp3.1/bigalfirstday.dll
+/Users/williambonner/Source/repos/bigalfirstday/obj/Debug/netcoreapp3.1/bigalfirstday.pdb
+/Users/williambonner/Source/repos/bigalfirstday/obj/Debug/netcoreapp3.1/bigalfirstday.genruntimeconfig.cache
